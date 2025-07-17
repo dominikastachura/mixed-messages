@@ -14,5 +14,5 @@ Just clone repository
 ## Usage
 1. Once you have cloned the repository, save it somewhere local.
 2. Open terminal and navigate to the address of where the cloned repository was saved.
-3. Then once inside the cloned repository, type the file name mixedMessages.js to generate a random quote.
+3. Then once inside the cloned repository, type the file name ```mixedMessages.js``` into the console to generate a random quote.
 4. Keep typing the file name to generate another quote.
