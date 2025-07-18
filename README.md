@@ -41,9 +41,7 @@ To clone repository:
 ## Usage
 1. Open terminal and navigate to the address of where the cloned repository was saved. Go further than the example of clonedRepos directory. This directory holds the directory you need to be in, which is the ```MixedMessages-ConsoleApp```
 
-For example:
-
-```cd documents/clonedRepos/MixedMessages-ConsoleApp```
+*For example:* ```cd documents/clonedRepos/MixedMessages-ConsoleApp```
 
 2. Then once inside the cloned repository, type ```node``` followed by file name ```mixedMessages.js``` into the console and hit enter to generate a random quote.
 3. Repeat step 3 to generate another quote.
