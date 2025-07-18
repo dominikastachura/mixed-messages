@@ -1,6 +1,4 @@
-# Codecademy Project - Mixed Messages - Unit 12 of the Fullstack engineer path
-
-
+# Codecademy Project - Mixed Messages
 
 A simple Node.js console application that generates a random quote from the popular tv series 'Supernatural' each time it runs. Built with JavaScript.
 
@@ -8,16 +6,27 @@ A simple Node.js console application that generates a random quote from the popu
 Randomly selects from an array of quotes
   
 ## Installation
-To clone repository:
-1. Click on **green** ```<> Code ``` button on the top right hand corner of repository
-2. Copy the following URL ```https://github.com/domweronika/MixedMessages-ConsoleApp.git```.
-3. Open your terminal
-4. Use the ```cd``` command to get to a directory where you would like to save your cloned repository.
+
+1. Ensure you have``` node.js``` installed on your computer.
+- Do this by opening your terminal and typing ```node``` into the console.
+- You should either see the version of node or an error claiming it is not installed/doesnt exist.
+- If it doesnt exist, head over to [Node Official Website](www.nodejs.org/download) and follow the instructions.
+- Once installed check again if node is present on your system, by opening terminal and typing ```node```
+  
+2. Close terminal and refer back to this repository
+   
+3. Clone this repository:   
+- Click on **green** ```<> Code ``` button on the top right hand corner of repository
+- Copy the following URL ```https://github.com/domweronika/MixedMessages-ConsoleApp.git```.
+- Open your terminal
+-  Use the ```cd``` command to get to a directory where you would like to save your cloned repository.
    For example - If you want to save it in a directory called ```clonedRepos``` which is placed in the document directory:
    ```cd documents/clonedRepos```
-5. Now that youre inside the the directory where you want to clone this repository into, in the terminal console, type:
-   ```git clone https://github.com/domweronika/MixedMessages-ConsoleApp.git```
-6. Next you should see something like this in you terminal, letting you know that the cloning was successful:
+-  Now that youre inside the the directory where you want to clone this repository into, in the terminal console, type:
+
+    ```git clone https://github.com/domweronika/MixedMessages-ConsoleApp.git```
+
+- Next you should see something like this in you terminal, letting you know that the cloning was successful:
 
     ```PS C:\Users\username\documents\clonedRepos> git clone https://github.com/domweronika/MixedMessages-ConsoleApp.git```
 
@@ -35,7 +44,8 @@ To clone repository:
 
    ```Resolving deltas: 100% (6/6), done.```
 
-8. Close the terminal.
+- Close the terminal
+
 
 
 ## Usage
