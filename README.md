@@ -20,16 +20,11 @@ Randomly selects from an array of quotes
   -  Use the ```cd``` command to get to a directory where you would like to save your cloned repository.
        For example - If you want to save it in a directory called ```clonedRepos``` which is placed in the document directory:
        ```cd documents/clonedRepos```
-  -  Now that youre inside the the directory where you want to clone this repository into, in the terminal console, type:
-
+  -  Now that youre inside the the directory where you want to clone this repository into, in the terminal console, type
        ```git clone https://github.com/domweronika/MixedMessages-ConsoleApp.git```
-
   - Next you should see something like this in you terminal, letting you know that the cloning was successful:
-<img width="1403" height="253" alt="Screenshot 2025-07-18 093856" src="https://github.com/user-attachments/assets/fbe22a77-919b-492f-b163-753218a92e8c" />
-
-    
+       <img width="1403" height="253" alt="Screenshot 2025-07-18 093856" src="https://github.com/user-attachments/assets/fbe22a77-919b-492f-b163-753218a92e8c" />
  - Close the terminal
-
 
 ## Usage
 1. Open terminal and navigate to the address of where the cloned repository was saved. Go further than the example of clonedRepos directory. This directory holds the directory you need to be in, which is the ```MixedMessages-ConsoleApp```
