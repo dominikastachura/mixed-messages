@@ -1,8 +1,8 @@
-# Codecademy Project - Mixed Messages - using JavaScript. 
+# Codecademy Project - Mixed Messages - Unit 12 of the Fullstack engineer path
 
 
 
-A simple Node.js console application that displays a random quote from the popular tv series 'Supernatural' each time it runs. Built with JavaScript.
+A simple Node.js console application that generates a random quote from the popular tv series 'Supernatural' each time it runs. Built with JavaScript.
 
 ## Features
 Randomly selects from an array of quotes
