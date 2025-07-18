@@ -20,13 +20,21 @@ To clone repository:
    ```git clone https://github.com/domweronika/MixedMessages-ConsoleApp.git```
 6. Next you should see something like this in you terminal, letting you know that the cloning was successful:
    ```PS C:\Users\username\documents\clonedRepos> git clone https://github.com/domweronika/MixedMessages-ConsoleApp.git```
-   ```Cloning into 'MixedMessages-ConsoleApp'...```
+
+    ```Cloning into 'MixedMessages-ConsoleApp'...```
+
    ```remote: Enumerating objects: 28, done.```
+
    ```remote: Counting objects: 100% (28/28), done.```
+
    ```remote: Compressing objescts: 100% (26/26), done.```
+
    ```remote: Total 28 (delta 6), reused 0 (delta o), pack-reused 0 (from 0)```
+
    ```Receiving objects: 100% (28/28), 10.42 KiB | 1.49 MiB/s, done.```
+
    ```Resolving deltas: 100% (6/6), done.```
+
 7. Close the terminal.
 
 ## Usage
